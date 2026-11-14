@@ -1,4 +1,4 @@
-/* FitSense — visual storytelling, native scroll and accessible interactions. */
+/* Kora — visual storytelling, native scroll and accessible interactions. */
 @font-face{font-family:Archivo;src:url("fonts/archivo-latin.woff2") format("woff2");font-style:normal;font-weight:400 700;font-stretch:62% 125%;font-display:swap}
 :root{--bg:#11150f;--surface:#1d2419;--lime:#d3ff48;--cream:#f0f0e6;--text:#f3f3e9;--muted:#a6b09e;--hair:rgba(240,240,230,.15);--ease:cubic-bezier(.16,1,.3,1);--nav-h:82px}
 *{box-sizing:border-box}

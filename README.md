@@ -1,6 +1,12 @@
-# FitSense — landing page
+# Kora — landing page
 
-Landing interactiva de FitSense, con fotografía editorial y una demo que se puede probar antes de descargar.
+## Identidad Kora
+
+Actualizada a partir de la referencia visual: lima `#D9FF59`, bosque `#0F2E25`, marfil `#F7F8F3` y salvia `#7A9A7E`. `kora.css` aplica la identidad sobre la estructura y las animaciones existentes. `assets/kora-mark.svg` es una recreación vectorial del isotipo de la referencia, utilizada también como favicon; `assets/kora-pattern.svg` contiene el patrón orgánico. El logotipo se presenta en minúsculas y el mensaje principal es “Muévete a tu ritmo”. Se conserva Archivo como fuente local; la referencia no incluye un archivo tipográfico original.
+
+Se mantiene el comportamiento de la semana interactiva y el cero sin días seleccionados. La revisión de marca validó sintaxis JavaScript, referencias de controles, recursos locales y SVG. La comprobación visual de esta revisión quedó limitada por un error de inicialización de las herramientas de navegador.
+
+Landing interactiva de Kora, con fotografía editorial y una demo que se puede probar antes de descargar.
 
 ```
 index.html      estructura y contenido

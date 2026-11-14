@@ -1,4 +1,4 @@
-/* FitSense — scroll-driven imagery, simple weekly demo, photo cards. */
+/* Kora — scroll-driven imagery, simple weekly demo, photo cards. */
 (function () {
   'use strict';
   var $ = function (selector, root) { return (root || document).querySelector(selector); };
